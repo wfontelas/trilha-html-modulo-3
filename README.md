@@ -1,19 +1,25 @@
-# Módulo 3 - Trilha HTML
+# Desafio 03 - Recriando o Wikipedia com Layout Moderno
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+
+
+
 
 ## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
-
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
-
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
-
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
-
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
+O desafio consiste em criar a estrutura do site, aplicando todos os conhecimentos para criar um codigo semântico e com acessibilidade.
 
 
+
+
+## Referencias
+- [Wikipedia](https://pt.wikipedia.org/wiki/Severance_(s%C3%A9rie_de_televis%C3%A3o)) Severance
+
+- [Youtube](https://www.youtube.com/watch?v=EFjc_qHrnsQ) Ruptura — Trailer oficial - Dublado | Apple TV+ 
+
+- [Youtube](https://www.youtube.com/watch?v=xEQP4VVuyrY) Severance — Official Trailer | Apple TV+
+
+- [Apple TV+](https://tv.apple.com/)
+
+
+
+
+![GIF de um teclado usado na serie Ruptura](/imagens/keyboard.gif)
